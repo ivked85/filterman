@@ -20,7 +20,7 @@ class CompaniesController < ApplicationController
 end
 ```
 
-Filterman aims to provide a simple alternative to avoid such repetition in your controllers, without requiring additional classes to be defined elsewhere.
+Filterman aims to provide a simple way to avoid such repetition in your controllers, without requiring additional classes to be defined elsewhere.
 
 ## Installation
 
